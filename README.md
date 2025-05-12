@@ -35,9 +35,9 @@ Command	Action
 <br>
 "jarvis"	Wake up the AI
 <br>
-"Send a message to "name" "	Send SMS/email
+"Send a message to "name" "	Send Whatsapp message
 <br>
-"Call Mom"	Initiate a VoIP call
+"Call Mom"	Initiate a Whatsapp voice call
 <br>
 "Play Despacito on youtube"	Stream from YouTube
 <br>
